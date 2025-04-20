@@ -1,0 +1,161 @@
+{
+  "patient_info": {
+    "name": "Yash M. Patel",
+    "age": 21,
+    "gender": "Male",
+    "id": "555"
+  },
+  "dates": {
+    "test_date": "02 Dec, 2X",
+    "report_date": "02 Dec, 2X"
+  },
+  "provider": {
+    "name": "Dr. Payal Shah",
+    "credentials": "MD, Pathologist"
+  },
+  "test": {
+    "name": "Complete Blood Count (CBC) with Absolute Count",
+    "type": "Blood"
+  },
+  "results": [
+    {
+      "parameter": "Hemoglobin (Hb)",
+      "value": "12.5",
+      "reference_range": "13.0-17.0",
+      "flag": "Low"
+    },
+    {
+      "parameter": "Total RBC count",
+      "value": "5.2",
+      "reference_range": "4.5-5.5",
+      "flag": null
+    },
+    {
+      "parameter": "Packed Cell Volume (PCV)",
+      "value": "57.5",
+      "reference_range": "40-50",
+      "flag": "High"
+    },
+    {
+      "parameter": "Mean Corpuscular Volume (MCV)",
+      "value": "87.75",
+      "reference_range": "83-101",
+      "flag": null
+    },
+    {
+      "parameter": "MCH",
+      "value": "27.2",
+      "reference_range": "27-32",
+      "flag": null
+    },
+    {
+      "parameter": "MCHC",
+      "value": "32.8",
+      "reference_range": "32.5-34.5",
+      "flag": null
+    },
+    {
+      "parameter": "RDW",
+      "value": "13.6",
+      "reference_range": "11.6-14.0",
+      "flag": null
+    },
+    {
+      "parameter": "Total WBC count",
+      "value": "9000",
+      "reference_range": "4000-11000",
+      "flag": null
+    },
+    {
+      "parameter": "Neutrophils",
+      "value": "60",
+      "reference_range": "50-62",
+      "flag": null
+    },
+    {
+      "parameter": "Lymphocytes",
+      "value": "31",
+      "reference_range": "20-40",
+      "flag": null
+    },
+    {
+      "parameter": "Eosinophils",
+      "value": "1",
+      "reference_range": "00-06",
+      "flag": null
+    },
+    {
+      "parameter": "Monocytes",
+      "value": "7",
+      "reference_range": "00-10",
+      "flag": null
+    },
+    {
+      "parameter": "Basophils",
+      "value": "1",
+      "reference_range": "00-02",
+      "flag": null
+    },
+    {
+      "parameter": "Absolute Neutrophils",
+      "value": "6000",
+      "reference_range": "1500-7500",
+      "flag": null
+    },
+    {
+      "parameter": "Absolute Lymphocytes",
+      "value": "3100",
+      "reference_range": "1300-3500",
+      "flag": null
+    },
+    {
+      "parameter": "Absolute Eosinophils",
+      "value": "100",
+      "reference_range": "00-500",
+      "flag": null
+    },
+    {
+      "parameter": "Absolute Monocytes",
+      "value": "700",
+      "reference_range": "200-950",
+      "flag": null
+    },
+    {
+      "parameter": "Absolute Basophils",
+      "value": "100",
+      "reference_range": "00-300",
+      "flag": null
+    },
+    {
+      "parameter": "Platelet Count",
+      "value": "320000",
+      "reference_range": "150000-410000",
+      "flag": null
+    }
+  ],
+  "abnormal_findings": [
+    {
+      "abnormalitites": "Low Hemoglobin (12.5 g/dL)"
+    },
+    {
+      "abnormalitites": "High Packed Cell Volume (PCV) (57.5%)"
+    }
+  ],
+  "Diagnosis": [
+    "The patient shows signs of mild anemia due to low hemoglobin levels. The elevated PCV could indicate dehydration or polycythemia, but further investigation is needed to confirm."
+  ],
+  "Medical Suggestions": [
+    "Further tests are recommended to determine the cause of the low hemoglobin and high PCV.",
+    "Consider a comprehensive metabolic panel to assess hydration status and kidney function.",
+    "Evaluate iron levels, vitamin B12, and folate to rule out nutritional deficiencies."
+  ],
+  "Treatment": [
+    "Based on the initial findings, the following treatments are suggested:",
+    "Iron Supplementation: If iron deficiency is confirmed, prescribe iron supplements.",
+    "Hydration: Ensure adequate fluid intake to address potential dehydration.",
+    "Dietary Adjustments: Recommend a balanced diet rich in iron and essential nutrients."
+  ],
+  "Medications": [
+    "Iron supplements (if iron deficiency is confirmed)"
+  ]
+}
