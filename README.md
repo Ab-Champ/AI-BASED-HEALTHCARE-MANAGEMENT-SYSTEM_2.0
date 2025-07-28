@@ -1,7 +1,5 @@
-Visit home page - https://aarogratrack-homepage.tiiny.site
----
-
 # 🏥 HealthCare Ecosystem with AI Features
+![thubmnail](staticFolder/thumbnail_ai.jpg)
 
 Welcome to the **HealthCare Appointment Booking System**! 🚀 This enhanced web-based platform enables patients to book appointments with doctors easily, view 3D medical models, analyze reports, and receive AI-powered chatbot assistance for medical advice. 🎯
 
